@@ -1,0 +1,19 @@
+JASON & JOYCE WEDDING INVITATION
+
+TO EDIT (no coding)
+ 1. Keep this whole folder together: index.html, assets and fonts.
+ 2. Double-click index.html. It opens in Chrome or Edge.
+ 3. Tap "Open invitation", then tap "Edit invitation" at the bottom left.
+ 4. Change any text, add or adjust photos, change the song, QR codes and more.
+ 5. Tap "Save changes". When asked where to save, pick this same index.html
+    and replace it.
+    (If your browser just downloads a file instead, move the new index.html
+    from your Downloads folder into this folder and replace the old one.)
+
+TO PUT IT ONLINE FOR GUESTS
+ Upload this whole folder to a free website host such as Netlify Drop
+ (app.netlify.com/drop). After every edit, upload the folder again.
+
+WHO CAN EDIT?
+ The "Edit invitation" button only appears when the file is opened from a
+ computer, never on the online link. Guests can't change your website.
